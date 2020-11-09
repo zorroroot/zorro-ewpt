@@ -1,2 +1,2 @@
-# zorro-ewpt
+# eWPT-Journey
 eWPT
